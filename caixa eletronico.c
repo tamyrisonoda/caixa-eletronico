@@ -1,18 +1,4 @@
-/*********************************************************************/
-/**   ACH2001 - Introducao a Programacao                            **/
-/**   EACH-USP - Primeiro Semestre de 2021                          **/
-/**   <94> - <Luciano Digiampietri>                                 **/
-/**                                                                 **/
-/**   Primeiro Exercicio-Programa                                   **/
-/**                                                                 **/
-/**   <Tamyris Ayumy Nascimento Onoda>         <12731401>          **/
-/**                                                                 **/
-/*********************************************************************/
 
-/*
-	Caixa eletronico das Ilhas Weblands, com estoque ilimitado de cedulas
-	de B$50,00, B$20,00, B$5,00 e B$1,00.
-*/
 
 #include <stdio.h>
 
